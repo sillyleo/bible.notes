@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "sillyleo",
-    "repositoryName": "bible.notes",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"sillyleo","repositoryName":"bible.notes","branch":"gh-pages"},"site":{"title":"Leo Lin's Bible Notes","postsPerPage":"2-","url":"https://sillyleo.github.io/bible.notes"},"socialnetwork":{},"theme":{"name":"Casper","url":"//sillyleo.github.io/bible.notes/themes/Casper"}}
